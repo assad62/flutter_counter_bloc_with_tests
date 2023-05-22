@@ -1,4 +1,4 @@
-# flutter_final
+# flutter counter example using Bloc and Bloc testing
 
 A new Flutter project.
 
